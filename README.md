@@ -1,10 +1,11 @@
 ```json
 {
   "name": "Dulanga Dasanayake",
-  "education": "HNDIT Undergraduate",
-  "skills": [
-    "UI Designing with Figma",
-    "Web Development with MERN Stack"
+  "education": "HNDIT, Next academic chapter loading...",
+  "passion": [
+    "Mastering JavaScript",
+    "MERN Stack Development",
+    "Python Programming"
   ]
 }
 ```
