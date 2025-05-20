@@ -1,11 +1,10 @@
 ```json
 {
-  "name": "Dulanga Dasanayake",
-  "education": "HNDIT, Next academic chapter loading...",
-  "passion": [
-    "Mastering JavaScript",
-    "MERN Stack Development",
-    "Python Programming"
+  "Name": "Dulanga Dasanayake",
+  "Education": "Higher National Diploma in IT - Awaitin Graduation",
+  "Current Focus": [
+    "Mastering JavaScript (ES6+)",
+    "Advancing Front-End Development Skills with modern frameworks"
   ]
 }
 ```
