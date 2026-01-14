@@ -13,7 +13,7 @@
 -->
 
 <div align="center">
-  <img src="assets/hubot.png" width="200">
+  <img src="assets/daftpunktocat-thomas.gif" width="200">
   <br>
   <img src="https://komarev.com/ghpvc/?username=iamdulanga&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
