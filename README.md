@@ -32,9 +32,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30">
 </div>
 
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br>
+  <img height="150em" src=https://github-readme-stats.vercel.app/api?username=iamdulanga&theme=dark&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iamdulanga&theme=algolia&show_icons=true"/>
   &nbsp;&nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdulanga&hide=&hide_progress=true&layout=compact&langs_count=6&theme=algolia"/>
