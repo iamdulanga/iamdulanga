@@ -31,10 +31,11 @@ A passionate tech enthusiast. With a strong background in IT and a love for elec
 
 <div align="center">
 
-<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=merko"/>
-<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide_progress=true&theme=merko"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
+
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=iamdulanga&show_icons=true&theme=merko"/>
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamdulanga&hide_progress=true&theme=merko"/>
   
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdulanga&hide=&hide_progress=true&layout=compact&langs_count=6&theme=algolia"/>-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 <br>
 
