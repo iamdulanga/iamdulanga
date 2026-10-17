@@ -1,17 +1,12 @@
-<!--
 ```json
 {
   "Name": "Dulanga Dasanayake",
   "Education": "Higher National Diploma in IT",
   "Institution": "Sri Lanka Institute of Advanced Technological Education",
-  "Current Focus": [
-    "Mastering ES6+, React & Laravel",
-    "Advancing Front-End Development Skills with modern frameworks"
-  ]
+  "Current Focus": "Advancing Skills with modern frameworks"
 }
 ```
--->
-
+<!--
 <div align="center">
 <img src="assets/daftpunktocat-guy.gif" width="200">
 <br><img src="https://komarev.com/ghpvc/?username=iamdulanga&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -46,7 +41,7 @@ A passionate tech enthusiast. With a strong background in IT and a love for elec
 | **Operating Systems**| ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | **Databases**       | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **API Testing**     | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |-->
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 | Category            | Used Tools & Technologies                                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
