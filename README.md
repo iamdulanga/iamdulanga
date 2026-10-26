@@ -1,3 +1,4 @@
+<!--
 ```json
 {
   "Name": "Dulanga Dasanayake",
@@ -6,7 +7,7 @@
   "Current Focus": "Advancing Skills with modern frameworks"
 }
 ```
-<!--
+-->
 <div align="center">
 <img src="assets/daftpunktocat-guy.gif" width="200">
 <br><img src="https://komarev.com/ghpvc/?username=iamdulanga&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -42,7 +43,7 @@ A passionate tech enthusiast. With a strong background in IT and a love for elec
 | **Databases**       | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **API Testing**     | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
+-->
 | Category            | Used Tools & Technologies                                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **Frameworks**      | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
